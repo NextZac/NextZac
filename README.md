@@ -1,6 +1,6 @@
 ### Hey, I'm Sebastian! 👋
 
-### Most of my projects are made in LUA, C#, JAVA or FULL STACK
+### Most of my projects are made in LUA, C#, PHP or whatever i feel like...
 ![](programming.gif)
 <!--
 **NextZac/NextZac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
