@@ -38,10 +38,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nextzac&show_icons=true&theme=synthwave&count_private=true&hide=contribs,stars" alt="NextZac's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=nextzac&show_icons=true&theme=moltack&count_private=true&hide=contribs,stars" alt="NextZac's GitHub stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextzac&layout=compact&theme=synthwave&count_private=true" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextzac&layout=compact&theme=moltack&count_private=true" alt="Top Langs"/>
     </td>
   </tr>
 </table>
